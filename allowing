@@ -1,0 +1,13 @@
+# Custom host records are listed here.
+
+# End of custom host records.
+# Title: Social media hosts
+# Direct URL: https://raw.githubusercontent.com/azusachino/hosts/main/allowing
+# Updated: March 24, 2025
+
+# heytap
+0.0.0.0 heytapimage.com
+0.0.0.0 store01.heytapimage.com
+0.0.0.0 smoot-feedback.v.aaplimg.com
+0.0.0.0 info.3g.qq.com
+0.0.0.0 oth.eve.mdt.qq.com
